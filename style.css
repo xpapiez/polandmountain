@@ -1,0 +1,108 @@
+body {
+  font-family: 'Akaya Kanadaka', cursive;
+  margin: 0;
+  background-color: whitesmoke;
+  overflow-x: hidden;
+}
+.ejopa {
+  justify-content: center;
+  display: flex;
+  width: 100vw;
+  background-color: #96ac1c;
+  color: black;
+}
+.wstep {
+  background-color: #96ac1c;
+  font-size: 2vw;
+  padding: 6vh 6vh 6vh 6vh;
+}
+.koziolki {
+  width: 40vw;
+  height: 15vw;
+  margin-right: 10vh;
+  margin-top: 7.5vh;
+  border: solid 7px white;
+  margin-bottom: 7.5vh;
+}
+.gdzie {
+  font-size: 2vw;
+  padding: 6vh 6vh 6vh 6vh;
+  justify-content: center;
+  display: flex;
+}
+.tekst {
+  font-size: 2vw;
+  padding: 6vh 6vh 6vh 6vh;
+  margin-right: 28vw;
+  color: #96ac1c;
+}
+.mapa {
+  width: 20vw;
+  height: 20vw;
+  justify-content: center;
+  border: solid 5px #96ac1c;
+}
+.ktoikiedy {
+  justify-content: center;
+  display: flex;
+  background-color: #96ac1c;
+}
+.rysunek {
+  margin-top: 15vh;
+  margin-bottom: 10vh;
+  margin-right: 10vh;
+  width: 20vw;
+  height: 12vw;
+  border: solid 7px white;
+  justify-content: center;
+}
+.tekst1 {
+  font-size: 2vw;
+  padding: 6vh 6vh 6vh 6vh;
+}
+.poco {
+  justify-content: center;
+  display: flex;
+  background-color: white;
+}
+.obrazek2 {
+  margin-right: 10vh;
+  margin-top: 7.5vh;
+  border: solid 7px white;
+  height: 20vw;
+  width: 30vw;
+  border: solid 7px #96ac1c;
+}
+.tekst2 {
+  font-size: 2vw;
+  padding: 6vh 6vh 6vh 6vh;
+  margin-right: 22vw;
+  color: #96ac1c;
+  max-width: max-content;
+  margin: auto;
+  margin-bottom: 25vh;
+}
+.funfact {
+  font-size: 2vw;
+  padding: 6vh 6vh 6vh 6vh;
+  margin-right: 22vw;
+  color: #black;
+  max-width: max-content;
+  margin: auto;
+  margin-bottom: 10vh;
+  background-color: #96ac1c;
+  display: flex;
+  justify-content: center;
+}
+.kolejorz {
+  width: 30vw;
+  height: 15vw;
+  border: solid 7px white;
+}
+footer {
+  font-size: 2vw;
+  justify-content: center;
+  color: #96ac1c;
+  text-align: center;
+  margin: auto;
+}
